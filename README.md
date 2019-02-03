@@ -1,4 +1,4 @@
-# witai-tests
+# A basic implementation of Wit.ai API
 
 Get your https://wit.ai/ key.
 
