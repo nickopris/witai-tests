@@ -1,5 +1,7 @@
 # A basic implementation of Wit.ai API
 
+This is using https://github.com/tgallice/wit-php (thanks!)
+
 Get your https://wit.ai/ key.
 
 Add your web/app_key.php file with contents:
