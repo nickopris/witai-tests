@@ -9,6 +9,8 @@ Add your web/app_key.php file with contents:
   # Get started
 Go to the `chatbot-docker` directory and run `docker-compose up -d`
 
+From `web` run `composer install` so you can get the vendor libs down.
+
 Got to your browser and hit:
 http://chatbot.localhost:8000 
 
